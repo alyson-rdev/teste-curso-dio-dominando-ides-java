@@ -16,7 +16,7 @@ public class Calculadora {
 		int soma = soma(a,b);
 		int subtracao = subtracao(a,b);
         int multiplicacao = multiplicacao(a,b);
-        int divisao = divisao(a,b);
+        double divisao = divisao(a,b);
         
         System.out.println("Soma " + soma);
         System.out.println("Subtração " + subtracao);
