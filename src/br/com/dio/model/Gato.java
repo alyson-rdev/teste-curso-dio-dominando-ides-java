@@ -10,7 +10,7 @@ public class Gato {
 	public Gato() {
 	}
 
-	public Gato(String nome, String cor, integer idade) {
+	public Gato(String nome, String cor, Integer idade) {
 		this.nome = nome;
 		this.cor = cor;
 		this.idade = idade;
